@@ -31,6 +31,12 @@
     <artifactId>selenium-java</artifactId>
     <version>4.18.1</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
+<dependency>
+    <groupId>org.sonarsource.scanner.maven</groupId>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>3.11.0.3922</version>
+</dependency>
 
   </dependencies>
 
