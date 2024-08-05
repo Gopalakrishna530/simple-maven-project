@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: myprojectDomaindemojan.mvndemo1jan.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.053 s - in myprojectDomaindemojan.mvndemo1jan.AppTest
